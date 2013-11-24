@@ -12,7 +12,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html>
 <head>
-<title>Agenda</title>
+<title>Agenda Modificada</title>
 <script type="text/javascript" src="application.js">alert("Error al abrir application.js");
 </script>
 
